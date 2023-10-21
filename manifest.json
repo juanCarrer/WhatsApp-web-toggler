@@ -1,6 +1,6 @@
 {
-  "name": "Juancarrer - wsp",
-  "description": "extension para ocultar elementos de wsp web",
+  "name": "WhatsApp web toggler",
+  "description": "Extension for hidden elements on WhatsApp Web",
   "version": "0.0.1",
   "manifest_version": 3,
   "action": {
